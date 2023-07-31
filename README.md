@@ -1,6 +1,6 @@
 # EVoting-Application
 
-This EVoting Applicatioon is developed using Java , XML . Java used in the backend and XML in the frontend. The application performs online voting where we have used firebase for storing data of the candidates and the users voting for the candidate.
+This EVoting Application is developed using Java , XML . Java used in the backend and XML in the frontend. The application performs online voting where we have used firebase for storing data of the candidates and the users voting for the candidate.
 
 For the authentication functionality provided by the firebase is used which is email authentication ane email verification to check whether the email is valid or not or used by the authorized candidate or not .
 
