@@ -10,3 +10,6 @@ Tha candidate data and the authentication data is stored in the firebase .
 We have used the concept of shared Preferences to easily loggin the person if he is already enrolled in the application.
 
 We have admin panel and the normal voters panel for creating candidates,conduct voting and give votes to the candidates then store data to the firebase.
+
+
+(You Can Find the code in the master Branch)
